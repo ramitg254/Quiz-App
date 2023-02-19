@@ -1,0 +1,1 @@
+https://funquizy.netlify.app
